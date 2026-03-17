@@ -51,6 +51,7 @@ I’m currently studying Systems Analysis and Development (ADS) and constantly i
 - CSS
 - GIT
 - PYTHON
+- C++
 
 ---
 
